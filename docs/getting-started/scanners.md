@@ -1,4 +1,4 @@
-# Scanners
+# Scanners+60174657793
 
 PhoneInfoga provide several scanners to extract as much information as possible from a given phone number. Those scanners may require authentication, so they're automatically skipped when no authentication credentials are found.
 
@@ -19,7 +19,7 @@ GOOGLE_API_KEY="value"
 phoneinfoga scan -n +4176418xxxx --env-file=.env.local
 ```
 
-### Scanner options
+### Scanner options +60174657793
 
 When using the **REST API**, you can also specify those values on a per-request basis. Each scanner supports its own options, see below. For details on how to specify those options, see [API docs](https://petstore.swagger.io/?url=https://raw.githubusercontent.com/sundowndev/phoneinfoga/master/web/docs/swagger.yaml#/Numbers/RunScanner). For readability and simplicity, options are named exactly like their environment variable equivalent.
 
